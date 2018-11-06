@@ -130,11 +130,11 @@ function setup() {
 	var sprite2 = new Image();
 	var sprite3 = new Image();
 	// rand(1)<.5?sprite.src = "file:///C:/Users/f/Desktop/tree1.png":sprite.src = "file:///C:/Users/f/Desktop/tree2.png"
-	sprite1.src = "file:///C:/Users/f/Desktop/tree.png";
+	sprite1.src = "https://github.com/lzl-lzl/Ginkgo/blob/master/png/tree.png";
 	spriteList[0] = sprite1;
-	sprite2.src = "file:///C:/Users/f/Desktop/tree2.png"
+	sprite2.src = "https://github.com/lzl-lzl/Ginkgo/blob/master/png/tree2.png"
 	spriteList[1] = sprite2;
-	sprite3.src = "file:///C:/Users/f/Desktop/bird.png"
+	sprite3.src = "https://github.com/lzl-lzl/Ginkgo/blob/master/png/bird.png"
 	spriteList[2] = sprite3;
 	// sprite.src = "file:///C:/Users/f/Desktop/tree.png";
 	// sprite.src = "https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/carrot.png";
